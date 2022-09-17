@@ -1,0 +1,26 @@
+﻿  Main.c
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(132,22): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(132,7): warning C4024: 'jeu' : types différents pour le paramètre formel et réel 1
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(132,41): warning C4020: 'jeu' : paramètres réels trop nombreux
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(147,15): warning C4028: paramètre formel 1 différent de la déclaration
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(148,1): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(209,41): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(210,40): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(211,45): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(212,44): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(213,47): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(214,46): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(219,9): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(220,9): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(221,9): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(222,9): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(223,9): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(224,9): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'int'
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(258,42): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(259,41): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(260,46): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(261,45): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(262,49): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(263,48): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'char *' sont différents
+C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Projet-Jeux-Des-Allumettes\Main.c(74): warning C4716: 'choixFonctionnalite' : doit retourner une valeur
+  Projet-Jeux-Des-Allumettes.vcxproj -> C:\Users\abdel\source\repos\Projet-Jeux-Des-Allumettes\Debug\Projet-Jeux-Des-Allumettes.exe
